@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+print("Hello my name is ShiaMicaNaomiOnix!")
 <!--
 **ShiaMicaNaomiOnix/ShiaMicaNaomiOnix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
